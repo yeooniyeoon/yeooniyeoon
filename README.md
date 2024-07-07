@@ -39,12 +39,12 @@
 <ul>
     <li>
         <a href="https://github.com/AreYouTravelers/backend">
-           Are You Travelers? 
+           ✈️ Are You Travelers? 
         </a>
     </li>
     <li>
         <a href="https://github.com/Daily-Happy-Project/Daily-Happy">
-           하루, 행복
+           🌈 하루, 행복
         </a>
     </li>
 </ul>
@@ -52,7 +52,7 @@
 <h3>Awards</h3>
 <ul>
     <li>
-        2021 교내 캡스톤 경진대회 대상
+        🏆 2021 교내 캡스톤 경진대회 대상
     </li>
 </ul>
 
@@ -103,16 +103,16 @@
 <div align="center">
 <!-- Most Used Languages -->
 <a href="https://github.com/yeooniyeoon/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeooniyeoon&layout=donut&show_icons=true&theme=light&hide_border=true&bg_color=f1f3f3&icon_color=fad314&text_color=606060&title_color=88a7bd&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeooniyeoon&layout=donut&show_icons=true&theme=light&hide_border=true&bg_color=f6f7f7&icon_color=fad314&text_color=606060&title_color=75c6ef&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
 
 <!-- Github Stats -->
 <a href="https://github.com/yeooniyeoon/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeooniyeoon&show_icons=true&theme=gruvbox&hide_border=true&bg_color=f1f3f3&icon_color=b2b2b2&text_color=b2b2b2&title_color=88a7bd&count_private=true" width=55.5% />
+  <img src="https://github-readme-stats.vercel.app/api?username=yeooniyeoon&show_icons=true&theme=gruvbox&hide_border=true&bg_color=f6f7f7&icon_color=b2b2b2&text_color=b2b2b2&title_color=75c6ef&count_private=true" width=55.5% />
 </a>
 
 <!-- Contribution Graph -->
 <a href="https://github.com/yeooniyeoon/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeooniyeoon&theme=react-dark&height=350&bg_color=f1f3f3&hide_border=true&line=88a7bd&color=88a7bd" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeooniyeoon&theme=react-dark&height=350&bg_color=f6f7f7&hide_border=true&line=75c6ef&color=75c6ef" width=94%/>
 </a>
 </div>
