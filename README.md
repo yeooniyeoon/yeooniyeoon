@@ -2,7 +2,7 @@
 <!--     <img src="https://capsule-render.vercel.app/api?type=venom&color=f6e27d&height=200&section=header&text=🤶%20Welcome%20to%20chaeyeon's%20Github%20!%20🤶&fontWeight=500&fontColor=000&fontSize=35"/> -->
 </div>
 
-<h1>Hi there 🖐 I'm chaeyeon</h1>
+<h1>Hi there 🖐 I'm chaeyeon !</h1>
 
 <h3>About me</h3>
         <a href="mailto:ickite428@gmail.com">
