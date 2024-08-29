@@ -1,5 +1,4 @@
 <div align="center">
-<!--     <img src="https://capsule-render.vercel.app/api?type=venom&color=f6e27d&height=200&section=header&text=🤶%20Welcome%20to%20chaeyeon's%20Github%20!%20🤶&fontWeight=500&fontColor=000&fontSize=35"/> -->
 </div>
 
 <h1>Hi there 🖐 I'm chaeyeon !</h1>
@@ -8,6 +7,7 @@
         <a href="mailto:ickite428@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
         </a>
+        <br>
         <a href="https://ycyeon.tistory.com">
             <img src="https://img.shields.io/badge/Tistory-fc7507?style=flat-square&logoColor=white&logo=Tistory"> 
         </a>
@@ -38,8 +38,13 @@
 <h3>Projects</h3>
 <ul>
     <li>
+        <a href="https://github.com/yeooniyeoon/Chaek-BilRyoZo">
+           <b>📚 Chaek-BilRyozo</b>
+        </a>
+    </li>
+    <li>
         <a href="https://github.com/AreYouTravelers/backend">
-           ✈️ Are You Travelers? 
+           <b>✈️ Are You Travelers?</b>
         </a>
     </li>
     <li>
@@ -103,16 +108,16 @@
 <div align="center">
 <!-- Most Used Languages -->
 <a href="https://github.com/yeooniyeoon/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeooniyeoon&layout=donut&show_icons=true&theme=light&hide_border=true&bg_color=f6f7f7&icon_color=fad314&text_color=606060&title_color=75c6ef&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeooniyeoon&layout=donut&show_icons=true&theme=light&hide_border=true&bg_color=fcfcfc&icon_color=fad314&text_color=a3a3a3&title_color=a3a3a3&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
 
 <!-- Github Stats -->
 <a href="https://github.com/yeooniyeoon/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeooniyeoon&show_icons=true&theme=gruvbox&hide_border=true&bg_color=f6f7f7&icon_color=b2b2b2&text_color=b2b2b2&title_color=75c6ef&count_private=true" width=55.5% />
+  <img src="https://github-readme-stats.vercel.app/api?username=yeooniyeoon&show_icons=true&theme=gruvbox&hide_border=true&bg_color=fcfcfc&icon_color=a3a3a3&text_color=a3a3a3&title_color=a3a3a3&count_private=true" width=55.5% />
 </a>
 
 <!-- Contribution Graph -->
 <a href="https://github.com/yeooniyeoon/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeooniyeoon&theme=react-dark&height=350&bg_color=f6f7f7&hide_border=true&line=75c6ef&color=75c6ef" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeooniyeoon&theme=react-dark&height=350&bg_color=fcfcfc&hide_border=true&line=a3a3a3&color=a3a3a3" width=94%/>
 </a>
 </div>
