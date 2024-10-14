@@ -40,12 +40,12 @@
                 </a>
         </h5>
         <h5>
-                <a href="https://github.com/yeooniyeoon/Chaek-BilRyoZo">
+                <a href="https://github.com/AreYouTravelers/backend">
                         <b>✈️ Are You Travelers?</b>
                 </a>
         </h5>
         <h5>
-                <a href="https://github.com/yeooniyeoon/Chaek-BilRyoZo">
+                <a href="https://github.com/Daily-Happy-Project/Daily-Happy">
                         🌈 하루, 행복
                 </a>
         </h5>
