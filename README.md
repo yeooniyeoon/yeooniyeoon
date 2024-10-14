@@ -58,16 +58,16 @@
 <div align="center">
 <!-- Most Used Languages -->
 <a href="https://github.com/yeooniyeoon/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeooniyeoon&layout=donut&show_icons=true&theme=light&hide_border=true&bg_color=eed8c8&icon_color=fad314&text_color=941F1F&title_color=34502B&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeooniyeoon&layout=donut&show_icons=true&theme=light&hide_border=true&bg_color=f7e2c4&icon_color=fad314&text_color=941F1F&title_color=34502B&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
 
 <!-- Github Stats -->
 <a href="https://github.com/yeooniyeoon/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeooniyeoon&show_icons=true&theme=gruvbox&hide_border=true&bg_color=eed8c8&icon_color=34502B&text_color=34502B&title_color=941F1F&count_private=true" width=55.5% />
+  <img src="https://github-readme-stats.vercel.app/api?username=yeooniyeoon&show_icons=true&theme=gruvbox&hide_border=true&bg_color=f7e2c4&icon_color=34502B&text_color=34502B&title_color=941F1F&count_private=true" width=55.5% />
 </a>
 
 <!-- Contribution Graph -->
 <a href="https://github.com/yeooniyeoon/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeooniyeoon&theme=react-dark&height=350&bg_color=eed8c8&hide_border=true&line=941F1F&color=34502B" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeooniyeoon&theme=react-dark&height=350&bg_color=f7e2c4&hide_border=true&line=941F1F&color=34502B" width=94%/>
 </a>
 </div>
